@@ -1,0 +1,31 @@
+@page "/login"
+@using Blog_App.Models;
+
+<EditForm Model="_model">
+    <DataAnnotationsValidator/>
+    <div>
+        <div><h3>Login</h3></div>
+        <div>
+            <div class="flex flex-col">
+                <label>UserName</label>
+                <InputText placeholder="Enter Username" @bind-value="_model.UserName"/>
+                <ValidationMessage For="()=>_model.UserName"/>
+                @* <input type="text" placeholder="Enter Username" @bind-value="_model.UserName"> *@
+            </div>
+            <div class="flex flex-col">
+                <label>Password</label>
+                <InputText typeof="password" placeholder="Enter Password" @bind-value="_model.Password"/>
+                <ValidationMessage For="()=>_model.Password"/>
+                @* <input type="text" placeholder="Enter Username" @bind-value="_model.UserName"> *@
+            </div>
+        </div>
+        <div>
+            <button class="bg-green-600 px-5 text-white font-bold py-2 rounded-xl">Login</button>
+        </div>
+    </div>
+</EditForm>
+
+@code{
+    private LoginModel _model = new();
+    
+}

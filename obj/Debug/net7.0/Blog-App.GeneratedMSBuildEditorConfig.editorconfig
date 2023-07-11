@@ -20,33 +20,41 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/Blogs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmxvZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/Categories.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-tt768e38k0
-
-[/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-vwrs69c7ml
 
 [/home/kennedy_muthuri/Developer/Practices/Blazor_Apps/Blog-App/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
